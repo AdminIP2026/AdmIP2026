@@ -1,0 +1,27 @@
+[
+  {
+    "command": "show version",
+    "timestamp": "2026-01-22 15:42:00",
+    "routers_count": 2
+  },
+  {
+    "command": "show version",
+    "timestamp": "2026-01-22 15:48:39",
+    "routers_count": 2
+  },
+  {
+    "command": "show version",
+    "timestamp": "2026-01-26 12:00:00",
+    "routers_count": 5
+  },
+  {
+    "command": "show version",
+    "timestamp": "2026-01-26 12:00:00",
+    "routers_count": 5
+  },
+  {
+    "command": "show interface descrip",
+    "timestamp": "2026-01-26 12:00:00",
+    "routers_count": 5
+  }
+]

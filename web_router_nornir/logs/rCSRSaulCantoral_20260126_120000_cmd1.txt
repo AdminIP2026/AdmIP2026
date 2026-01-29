@@ -1,0 +1,264 @@
+COMANDO EJECUTADO: show version
+FECHA: 2026-01-26 12:00:00
+TOTAL ROUTERS: 5
+EXITOSOS: 5 | FALLIDOS: 0
+======================================================================
+
+======================================================================
+🛜 ROUTER: rCSRSaulCantoral
+📍 IP: 10.134.18.213
+======================================================================
+⏱️ Timeout de conexión (>20s)
+
+======================================================================
+🛜 ROUTER: rCSRCruzdeAvaya
+📍 IP: 10.134.2.93
+======================================================================
+show version
+ZXCTN 6120H-S
+ZTE ZXCTN Software, Version: 6120H-S V5.10.50.20, Release software
+Copyright (c) 2024 by ZTE Corporation
+System image file is <sysdisk0: verset/ZXCTN6120HS_V5.10.50.20B220.set>, file si
+ze is 708,925,105 Bytes
+System image is loaded from local
+System uptime is 10 day(s), 0 hour(s), 20 minute(s)
+[SMGD, shelf 1, slot 1]:
+Board Name        : SMGD
+Item              : 180000450813
+Description       : 6120H-S System Main Board D
+System BaudRate   : 115,200 bps
+MPU-1/1/0, MSC:
+Bootrom Version :  V5.10.00B42
+Soft Version    :  N/A
+Creation Date   :  2024/07/15 12:41:00
+System Nvram    :  8,192 bytes
+System Memory   :  8,192 Mbytes
+System Flash    :  0 Mbytes
+Uptime is 10 day(s), 0 hour(s), 20 minute(s)
+[FAN, shelf 1, slot 2]:
+Board Name        : FAN
+Description       : Fan Control Board
+FCP-1/2/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+[PW1DC, shelf 1, slot 3]:
+Board Name        : PW1DC
+Item              : 180000454495
+Description       : Integrated DC Power Board
+PWR-1/3/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+[PW1DC, shelf 1, slot 4]:
+Board Name        : PW1DC
+Item              : 180000454495
+Description       : Integrated DC Power Board
+PWR-1/4/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+rCSRCruzdeAvaya#
+
+======================================================================
+🛜 ROUTER: rCSRLosLloques
+📍 IP: 10.134.0.169
+======================================================================
+show version
+ZXCTN 6120H-S
+ZTE ZXCTN Software, Version: 6120H-S V5.10.50.20, Release software
+Copyright (c) 2024 by ZTE Corporation
+System image file is <sysdisk0: verset/ZXCTN6120HS_V5.10.50.20B220.set>, file si
+ze is 708,925,105 Bytes
+System image is loaded from local
+System uptime is 6 day(s), 12 hour(s), 6 minute(s)
+[SMGD, shelf 1, slot 1]:
+Board Name        : SMGD
+Item              : 180000450813
+Description       : 6120H-S System Main Board D
+System BaudRate   : 115,200 bps
+MPU-1/1/0, MSC:
+Bootrom Version :  V5.10.00B42
+Soft Version    :  N/A
+Creation Date   :  2024/07/15 12:41:00
+System Nvram    :  8,192 bytes
+System Memory   :  8,192 Mbytes
+System Flash    :  0 Mbytes
+Uptime is 6 day(s), 12 hour(s), 6 minute(s)
+[FAN, shelf 1, slot 2]:
+Board Name        : FAN
+Description       : Fan Control Board
+FCP-1/2/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+[PW1DC, shelf 1, slot 3]:
+Board Name        : PW1DC
+Item              : 180000454495
+Description       : Integrated DC Power Board
+PWR-1/3/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+[PW1DC, shelf 1, slot 4]:
+Board Name        : PW1DC
+Item              : 180000454495
+Description       : Integrated DC Power Board
+PWR-1/4/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+rCSRLosLloques#
+
+======================================================================
+🛜 ROUTER: rCSREntradaHuamachuco
+📍 IP: 10.134.5.213
+======================================================================
+show version
+ZXCTN 6120H-S
+ZTE ZXCTN Software, Version: 6120H-S V5.10.50.20, Release software
+Copyright (c) 2024 by ZTE Corporation
+System image file is <sysdisk0: verset/ZXCTN6120HS_V5.10.50.20B220.set>, file si
+ze is 708,925,105 Bytes
+System image is loaded from local
+System uptime is 6 day(s), 12 hour(s), 6 minute(s)
+[SMGD, shelf 1, slot 1]:
+Board Name        : SMGD
+Item              : 180000450813
+Description       : 6120H-S System Main Board D
+System BaudRate   : 115,200 bps
+MPU-1/1/0, MSC:
+Bootrom Version :  V5.10.00B42
+Soft Version    :  N/A
+Creation Date   :  2024/07/15 12:41:00
+System Nvram    :  8,192 bytes
+System Memory   :  8,192 Mbytes
+System Flash    :  0 Mbytes
+Uptime is 6 day(s), 12 hour(s), 6 minute(s)
+[FAN, shelf 1, slot 2]:
+Board Name        : FAN
+Description       : Fan Control Board
+FCP-1/2/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+[PW1DC, shelf 1, slot 3]:
+Board Name        : PW1DC
+Item              : 180000454495
+Description       : Integrated DC Power Board
+PWR-1/3/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+[PW1DC, shelf 1, slot 4]:
+Board Name        : PW1DC
+Item              : 180000454495
+Description       : Integrated DC Power Board
+PWR-1/4/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+rCSREntradaHuamachuco#
+
+======================================================================
+🛜 ROUTER: rCSRLosSauces2
+📍 IP: 10.253.14.33
+======================================================================
+show version
+ZXCTN 6120H-S
+ZTE ZXCTN Software, Version: 6120H-S V5.10.50.20, Release software
+Copyright (c) 2024 by ZTE Corporation
+System image file is <sysdisk0: verset/ZXCTN6120HS_V5.10.50.20B220.set>, file si
+ze is 708,925,105 Bytes
+System image is loaded from local
+System uptime is 6 day(s), 12 hour(s), 5 minute(s)
+[SMGD, shelf 1, slot 1]:
+Board Name        : SMGD
+Item              : 180000450813
+Description       : 6120H-S System Main Board D
+System BaudRate   : 115,200 bps
+MPU-1/1/0, MSC:
+Bootrom Version :  V5.10.00B42
+Soft Version    :  N/A
+Creation Date   :  2024/07/15 12:41:00
+System Nvram    :  8,192 bytes
+System Memory   :  8,192 Mbytes
+System Flash    :  0 Mbytes
+Uptime is 6 day(s), 12 hour(s), 5 minute(s)
+[FAN, shelf 1, slot 2]:
+Board Name        : FAN
+Description       : Fan Control Board
+FCP-1/2/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+[PW1DC, shelf 1, slot 3]:
+Board Name        : PW1DC
+Item              : 180000454495
+Description       : Integrated DC Power Board
+PWR-1/3/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+[PW1DC, shelf 1, slot 4]:
+Board Name        : PW1DC
+Item              : 180000454495
+Description       : Integrated DC Power Board
+PWR-1/4/0:
+Bootrom Version :  N/A
+Soft Version    :  N/A
+Creation Date   :  N/A
+System Nvram    :  0 bytes
+System Memory   :  0 Mbytes
+System Flash    :  0 Mbytes
+Uptime is N/A
+rCSRLosSauces2#
+======================================================================
+📊 COMANDO 1/2: show version
+📈 RESULTADO: 5/5 routers exitosos
+⏰ Hora: 12:00:00
+======================================================================

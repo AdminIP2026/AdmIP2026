@@ -1,0 +1,57 @@
+[
+  {
+    "ip": "10.134.18.213",
+    "alias": "rCSRSaulCantoral",
+    "username": "C27747",
+    "password": "IzanagI11.",
+    "port": 22,
+    "added_date": "2026-01-21 13:28:54",
+    "last_connection": "2026-01-22 17:09:54",
+    "status": "connected",
+    "selected": false
+  },
+  {
+    "ip": "10.134.2.93",
+    "alias": "rCSRCruzdeAvaya",
+    "username": "C27747",
+    "password": "IzanagI11.",
+    "port": 22,
+    "added_date": "2026-01-21 13:31:21",
+    "last_connection": "2026-01-22 17:09:54",
+    "status": "connected",
+    "selected": false
+  },
+  {
+    "ip": "10.134.0.169",
+    "alias": "rCSRLosLloques",
+    "username": "C27747",
+    "password": "IzanagI11.",
+    "port": 22,
+    "added_date": "2026-01-22 16:44:32",
+    "status": "connected",
+    "selected": false,
+    "last_connection": "2026-01-22 17:09:54"
+  },
+  {
+    "ip": "10.134.5.213",
+    "alias": "rCSREntradaHuamachuco",
+    "username": "C27747",
+    "password": "IzanagI11.",
+    "port": 22,
+    "added_date": "2026-01-22 16:44:47",
+    "status": "connected",
+    "selected": false,
+    "last_connection": "2026-01-22 17:09:54"
+  },
+  {
+    "ip": "10.253.14.33",
+    "alias": "rCSRLosSauces2",
+    "username": "C27747",
+    "password": "IzanagI11.",
+    "port": 22,
+    "added_date": "2026-01-22 16:45:06",
+    "status": "connected",
+    "selected": false,
+    "last_connection": "2026-01-22 17:09:54"
+  }
+]

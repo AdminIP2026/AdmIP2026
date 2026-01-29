@@ -1,0 +1,120 @@
+2026-01-29 11:50:50 - __main__ - [32m[INFO][0m - Routers seleccionados: 0
+2026-01-29 11:50:52 - __main__ - [32m[INFO][0m - Routers seleccionados: 1
+2026-01-29 11:51:09 - __main__ - [32m[INFO][0m - 🔗 Intentando conectar - connect_all=True, usuario=C27747
+2026-01-29 11:51:09 - __main__ - [32m[INFO][0m - 📦 Routers cargados: 5
+2026-01-29 11:51:09 - __main__ - [32m[INFO][0m - ✓ Routers seleccionados: 5
+2026-01-29 11:51:09 - __main__ - [32m[INFO][0m - Inventario actualizado: 5 routers con usuario C27747
+2026-01-29 11:51:09 - __main__ - [32m[INFO][0m - 📝 Archivo hosts.yml creado correctamente
+2026-01-29 11:51:09 - __main__ - [32m[INFO][0m - ⚙️ Inicializando Nornir...
+2026-01-29 11:51:09 - __main__ - [32m[INFO][0m - ✅ Nornir inicializado con 5 hosts
+2026-01-29 11:51:09 - __main__ - [32m[INFO][0m - ✅ Conexión exitosa a 5 routers
+2026-01-29 11:51:13 - __main__ - [32m[INFO][0m - Comando recibido: show version
+2026-01-29 11:51:13 - __main__ - [32m[INFO][0m - Ejecutando comando en 5 routers
+2026-01-29 11:51:13 - __main__ - [32m[INFO][0m - Ejecutando comando: show version
+2026-01-29 11:51:13 - __main__ - [36m[DEBUG][0m - Conectando a rCSRSaulCantoral (10.134.18.213)
+2026-01-29 11:51:13 - __main__ - [36m[DEBUG][0m - Conectando a rCSRCruzdeAvaya (10.134.2.93)
+2026-01-29 11:51:13 - __main__ - [36m[DEBUG][0m - Conectando a rCSRLosLloques (10.134.0.169)
+2026-01-29 11:51:13 - __main__ - [36m[DEBUG][0m - Conectando a rCSREntradaHuamachuco (10.134.5.213)
+2026-01-29 11:51:13 - __main__ - [36m[DEBUG][0m - Conectando a rCSRLosSauces2 (10.253.14.33)
+2026-01-29 11:51:14 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSRLosLloques
+2026-01-29 11:51:14 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSRLosSauces2
+2026-01-29 11:51:14 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSRCruzdeAvaya
+2026-01-29 11:51:14 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSREntradaHuamachuco
+2026-01-29 11:51:18 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:51:18 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:51:18 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:51:18 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:51:19 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show version
+2026-01-29 11:51:19 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show version
+2026-01-29 11:51:19 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show version
+2026-01-29 11:51:19 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show version
+2026-01-29 11:51:20 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRLosSauces2
+2026-01-29 11:51:20 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRLosLloques
+2026-01-29 11:51:20 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRCruzdeAvaya
+2026-01-29 11:51:20 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSREntradaHuamachuco
+2026-01-29 11:51:33 - __main__ - [31m[ERROR][0m - ⏱️ Timeout conectando a rCSRSaulCantoral
+2026-01-29 11:51:33 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRSaulCantoral
+2026-01-29 11:51:33 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRSaulCantoral
+2026-01-29 11:51:33 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRCruzdeAvaya
+2026-01-29 11:51:33 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRLosLloques
+2026-01-29 11:51:33 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSREntradaHuamachuco
+2026-01-29 11:51:33 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRLosSauces2
+2026-01-29 11:51:33 - __main__ - [32m[INFO][0m - ✅ Log guardado: logs/rCSRSaulCantoral_20260126_120000_cmd.txt
+2026-01-29 11:52:09 - __main__ - [32m[INFO][0m - Routers seleccionados: 4
+2026-01-29 11:52:10 - __main__ - [32m[INFO][0m - Routers seleccionados: 0
+2026-01-29 11:52:11 - __main__ - [32m[INFO][0m - Routers seleccionados: 1
+2026-01-29 11:52:21 - __main__ - [32m[INFO][0m - Ejecutando 2 comandos en 5 routers
+2026-01-29 11:52:21 - __main__ - [32m[INFO][0m - Ejecutando comando 1/2: show version
+2026-01-29 11:52:21 - __main__ - [36m[DEBUG][0m - Conectando a rCSRSaulCantoral (10.134.18.213)
+2026-01-29 11:52:21 - __main__ - [36m[DEBUG][0m - Conectando a rCSRCruzdeAvaya (10.134.2.93)
+2026-01-29 11:52:21 - __main__ - [36m[DEBUG][0m - Conectando a rCSRLosLloques (10.134.0.169)
+2026-01-29 11:52:21 - __main__ - [36m[DEBUG][0m - Conectando a rCSREntradaHuamachuco (10.134.5.213)
+2026-01-29 11:52:21 - __main__ - [36m[DEBUG][0m - Conectando a rCSRLosSauces2 (10.253.14.33)
+2026-01-29 11:52:22 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSRLosLloques
+2026-01-29 11:52:22 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSRLosSauces2
+2026-01-29 11:52:22 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSREntradaHuamachuco
+2026-01-29 11:52:22 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSRCruzdeAvaya
+2026-01-29 11:52:26 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:52:26 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:52:26 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:52:26 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:52:26 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show version
+2026-01-29 11:52:26 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show version
+2026-01-29 11:52:27 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show version
+2026-01-29 11:52:27 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show version
+2026-01-29 11:52:28 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRLosLloques
+2026-01-29 11:52:28 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRLosSauces2
+2026-01-29 11:52:28 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSREntradaHuamachuco
+2026-01-29 11:52:28 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRCruzdeAvaya
+2026-01-29 11:52:41 - __main__ - [31m[ERROR][0m - ⏱️ Timeout conectando a rCSRSaulCantoral
+2026-01-29 11:52:41 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRSaulCantoral
+2026-01-29 11:52:41 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRSaulCantoral
+2026-01-29 11:52:41 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRCruzdeAvaya
+2026-01-29 11:52:41 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRLosLloques
+2026-01-29 11:52:41 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSREntradaHuamachuco
+2026-01-29 11:52:41 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRLosSauces2
+2026-01-29 11:52:41 - __main__ - [32m[INFO][0m - ✅ Log guardado: logs/rCSRSaulCantoral_20260126_120000_cmd1.txt
+2026-01-29 11:52:41 - __main__ - [32m[INFO][0m - Ejecutando comando 2/2: show interface descrip
+2026-01-29 11:52:41 - __main__ - [36m[DEBUG][0m - Conectando a rCSRSaulCantoral (10.134.18.213)
+2026-01-29 11:52:41 - __main__ - [36m[DEBUG][0m - Conectando a rCSRCruzdeAvaya (10.134.2.93)
+2026-01-29 11:52:41 - __main__ - [36m[DEBUG][0m - Conectando a rCSRLosLloques (10.134.0.169)
+2026-01-29 11:52:41 - __main__ - [36m[DEBUG][0m - Conectando a rCSREntradaHuamachuco (10.134.5.213)
+2026-01-29 11:52:41 - __main__ - [36m[DEBUG][0m - Conectando a rCSRLosSauces2 (10.253.14.33)
+2026-01-29 11:52:42 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSRLosSauces2
+2026-01-29 11:52:42 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSRLosLloques
+2026-01-29 11:52:42 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSRCruzdeAvaya
+2026-01-29 11:52:42 - __main__ - [36m[DEBUG][0m - ✅ Conexión SSH exitosa a rCSREntradaHuamachuco
+2026-01-29 11:52:46 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:52:46 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:52:46 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:52:46 - __main__ - [36m[DEBUG][0m - Hostname obtenido: hostname
+2026-01-29 11:52:46 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show interface descrip
+2026-01-29 11:52:46 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show interface descrip
+2026-01-29 11:52:47 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show interface descrip
+2026-01-29 11:52:47 - __main__ - [32m[INFO][0m - Ejecutando en hostname: show interface descrip
+2026-01-29 11:52:48 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRLosSauces2
+2026-01-29 11:52:48 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRLosLloques
+2026-01-29 11:52:49 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRCruzdeAvaya
+2026-01-29 11:52:49 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSREntradaHuamachuco
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - 🔗 Intentando conectar - connect_all=True, usuario=C27747
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - 📦 Routers cargados: 5
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ✓ Routers seleccionados: 5
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - Inventario actualizado: 5 routers con usuario C27747
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - 📝 Archivo hosts.yml creado correctamente
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ⚙️ Inicializando Nornir...
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ✅ Nornir inicializado con 5 hosts
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ✅ Conexión exitosa a 5 routers
+2026-01-29 11:53:01 - __main__ - [31m[ERROR][0m - ⏱️ Timeout conectando a rCSRSaulCantoral
+2026-01-29 11:53:01 - __main__ - [36m[DEBUG][0m - Conexión cerrada a rCSRSaulCantoral
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRSaulCantoral
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRCruzdeAvaya
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRLosLloques
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSREntradaHuamachuco
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ✅ Éxito en rCSRLosSauces2
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - ✅ Log guardado: logs/rCSRSaulCantoral_20260126_120000_cmd2.txt
+2026-01-29 11:53:01 - __main__ - [32m[INFO][0m - Ejecución completada: 10/5 exitosos, 0 fallos
+2026-01-29 11:55:10 - __main__ - [32m[INFO][0m - Probando conexión a 10.134.2.93:22...
+2026-01-29 11:55:10 - __main__ - [32m[INFO][0m - ✅ Conexión exitosa a 10.134.2.93
+2026-01-29 11:55:10 - __main__ - [31m[ERROR][0m - ❌ Error conectando a 10.134.2.93: Channel closed.
+2026-01-29 11:55:56 - __main__ - [32m[INFO][0m - Routers seleccionados: 0
+2026-01-29 12:00:26 - __main__ - [32m[INFO][0m - Descargando log: rCSRSaulCantoral_20260126_120000_cmd1.txt
